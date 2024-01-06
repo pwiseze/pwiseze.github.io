@@ -1,2 +1,2 @@
-# wxyZe-eta.github.io
+# pwiseze.github.io
  Digital Systems Fundamentals Portfolio Project
