@@ -48,4 +48,114 @@
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
+html {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    background-color: #FFFFFF;
+}
 
+body {
+    max-width: 1200px;
+    margin: auto;
+    padding: 1rem 2rem;    
+    color: #111;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+header {
+    text-shadow: #111;
+    text-align: center;
+}
+
+header span {
+    background-color: #71113B;
+    color:#ffffea;
+}
+
+nav {
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;  
+}
+  
+li a:hover {
+    background-color: #111;
+  }
+
+img {
+    float: left;
+    padding-right: 1rem;
+}
+
+aside {
+    width: 25%;
+    padding-left: 15px;
+    margin-left: 15px;
+    font-style: auto;
+    float: right;
+    border-left:0.125rem solid #333;
+}
+
+aside p {
+    border-bottom: 0.125rem solid #333;
+    padding-bottom: 1.5rem;
+}
+
+aside a {
+    text-decoration: none;
+    font-size:30%;
+}
+
+aside img {
+}
+
+article {
+    width: 70%;
+    float: left;
+}
+
+footer {
+    clear: both;
+    overflow: auto;
+    margin: auto;
+    text-align: right;
+}
+
+footer div {
+   float: left;
+}
+
+section img {
+    width: 25%;
+    grid-template-columns: ;
+    -ms-grid-column-align: ;
+}
+
+section figcaption {
+    width: 25%;
+}
+
+button {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 8px;
+    padding: 10px 24px;
+    background-color: #2c4875;
+    color: #ffffea;
+}
