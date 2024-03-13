@@ -123,9 +123,6 @@ aside a {
     font-size:30%;
 }
 
-aside img {
-}
-
 article {
     width: 70%;
     float: left;
@@ -140,12 +137,6 @@ footer {
 
 footer div {
    float: left;
-}
-
-section img {
-    width: 25%;
-    grid-template-columns: ;
-    -ms-grid-column-align: ;
 }
 
 section figcaption {
